@@ -2,19 +2,18 @@
 <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&pause=1000&color=0EA5E9&center=true&vCenter=true&width=700&lines=Ahmed+Khan;AI%2FML+Engineering+Student;Full+Stack+Developer;TimescaleDB+Hypertables;Hitex+Consulting+Intern;Hyderabad%2C+India;GPA+8.07%2F10" alt="Typing SVG"/>
 </div>
 
+## 🔥 Featured Repositories
 <p align="center">
-  <a href="https://github.com/khanahmed08/timescaledb-server-metrics">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=khanahmed08&repo=timescaledb-server-metrics&theme=radical&show_icons=true" width="300"/>
-  </a>
-  <a href="https://github.com/khanahmed08/AegisSecure">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=khanahmed08&repo=AegisSecure&theme=radical&show_icons=true" width="300"/>
-  </a>
-  <a href="https://github.com/IshaqAhmed02/AcademiaX">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=IshaqAhmed02&repo=AcademiaX&theme=radical&show_icons=true" width="300"/>
-  </a>
+  <img src="https://github-profile-trophy.vercel.app/?username=khanahmed08&theme=radical&no-frame=true&no-bg=true&margin-w=15&margin-h=15" alt="Trophy"/>
+  <img src="https://komarev.com/ghpvc/?username=khanahmed08&style=flat-square&color=blue" alt="Profile Views"/>
+</p>
+
+<p align="center">
+  TimescaleDB Server Metrics • AegisSecure • AcademiaX LLM Platform
 </p>
 
 ## 👋 About Me
+
 
 
 ## 🛠️ Tech Stack & Tools
